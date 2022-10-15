@@ -1,0 +1,12 @@
+Fully Responsive Restaurant Website with Modern UI and UX in ReactJS
+Deployed on netlify
+https://meridian-restaurant.netlify.app/
+
+npx create-react-app ./
+
+Extensions: es7+ by dsznajder
+npm install react-icons
+
+npm start
+
+npm run build
