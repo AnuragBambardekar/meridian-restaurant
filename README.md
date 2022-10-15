@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Followed a tutorial on ReactJS by Javascript Mastery YouTube Channel:
+https://www.youtube.com/watch?v=4oV65GVVits
+
+Credit to:
+https://github.com/adrianhajdin/project_modern_ui_ux_restaurant
+
+You can see my project is hosted on netlify:
+https://meridian-restaurant.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
