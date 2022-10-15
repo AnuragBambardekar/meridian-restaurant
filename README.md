@@ -1,4 +1,4 @@
-# Meridian Restaurant WebApp using ReactJS
+# Meridian Restaurant (Landing Page) WebApp using ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
