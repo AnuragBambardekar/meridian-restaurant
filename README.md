@@ -10,6 +10,7 @@ https://github.com/adrianhajdin/project_modern_ui_ux_restaurant
 
 You can see my project is hosted on netlify:
 https://meridian-restaurant.netlify.app/
+![Alt Image text](/deployed%20webapp%20image.png?raw=true "Meridian Restaurant Landing Page")
 
 ## Available Scripts
 
